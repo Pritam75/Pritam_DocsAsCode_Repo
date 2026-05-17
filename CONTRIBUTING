@@ -1,0 +1,16 @@
+# Contributing Guide
+
+This repository follows a docs-as-code workflow.
+
+## Workflow
+
+1. Create a new branch
+2. Make documentation updates in Markdown
+3. Submit a pull request
+4. Request review
+
+## Guidelines
+
+- Use clear headings and structure
+- Include request/response examples for APIs
+- Maintain consistency across files
