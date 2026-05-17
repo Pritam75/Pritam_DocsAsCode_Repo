@@ -57,39 +57,3 @@ Pritam Chakrabarti
 
 
 
-
-
-
-
-
-
-
-
-
-
-## What This Project Shows
-
-- Conversion of HTML documentation to Markdown
-- Modular documentation structure
-- Git-based workflow readiness
-- API documentation best practices
-
-## Docs-as-Code Practices Used
-
-- Markdown-based authoring
-- Version control with Git
-- Modular content organization
-- Developer-friendly formatting
-
-## Source
-
-Original HTML documentation from Conviva API guide.
-
-## Future Improvements
-
-- Add OpenAPI specification
-- Integrate with MkDocs for publishing
-- Add CI/CD pipeline for validation
-
-
-
