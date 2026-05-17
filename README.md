@@ -1,7 +1,7 @@
 # Pritam_DocsAsCode_Repo
 Private repo for my Sample Docs-as-code Projects
 
-# Docs-as-Code Portfolio: AI Alerts API Documentation
+# Docs-as-Code Portfolio: API Documentation
 
 This repository demonstrates a docs-as-code approach by transforming traditional HTML-based AI Alerts API guide into a structured, Git-based Markdown (`.md`) files.
 
